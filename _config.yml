@@ -35,7 +35,7 @@ features:
 
   - title: Meter Feet / Wazn filter
     description: Filter for Urdu poetic meters
-    fontawesome_icon_name: scale-balanced
+    fontawesome_icon_name: balance-scale
 
   - title: Multilingual
     description: Supports 4 scripts for search - Urdu, Farsi, Hindi & Roman.
@@ -43,7 +43,7 @@ features:
 
   - title: Works offline
     description: Qaafiyah, Wazn for word, Words for wazn and regular expression search, Bayaaz & Design features, all are offline!
-    fontawesome_icon_name: cloud-slash
+    fontawesome_icon_name: wifi-slash
 
   - title: Get feedback for your poetry
     description: A Taqti & Islah section to calculate poetic meters of poetry (Prosody عروض), along with online islah workshop
@@ -51,15 +51,15 @@ features:
 
   - title: Dictionaries and Thesaurus (Tri-lingual)
     description: Multiple dictionaries and a thesaurus to look up meanings, pronunciations and synonyms (Urdu/Hindi/Roman)
-    fontawesome_icon_name: books
+    fontawesome_icon_name: book
 
   - title: Jot down your poetry
     description: A lightweight diary with offline "save" support
-    fontawesome_icon_name: notebook
+    fontawesome_icon_name: marker
 
   - title: Design
     description: Simple and elegant solution to design your poetry. Pretty and Justified!
-    fontawesome_icon_name: paintbrush-pencil
+    fontawesome_icon_name: palette
 
   - title: Awesome quotes and articles
     description: An online portal for awesome literary posts, updated periodically.
