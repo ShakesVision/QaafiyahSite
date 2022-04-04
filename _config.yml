@@ -5,14 +5,14 @@ page_title: # Automatically populates with app name if not set and if iOS app ID
 ios_app_id: 1234793120 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: in # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link: # Enter Google Play Store URL.
+appstore_link: https://q.shakeeb.in
+playstore_link: https://play.google.com/store/apps/details?id=com.sarbakaf.qaafiyah
 presskit_download_link:
-  https://emilbaehr.com # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
+  https://drive.google.com/file/d/1axjHoY5MWn8B5KxSowRmTbeQzZI5OZUu/view?usp=sharing # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
   # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon: assets/pwa_btn.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name: Qaafiyah Expert
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: Get the right tools for writing Urdu poetry at your fingertips.
 
@@ -29,45 +29,41 @@ github_username: ShakesVision
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: GitHub Pages Jekyll Theme
-    description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title: One click solution
+    description: Type the end-string and get thousands of rhymes
     fontawesome_icon_name: magic
 
-  - title: iPhone Device Preview
-    description: Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name: mobile
+  - title: Meter Feet / Wazn filter
+    description: Filter for Urdu poetic meters
+    fontawesome_icon_name: scale-balanced
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
+  - title: Multilingual
+    description: Supports 4 scripts for search - Urdu, Farsi, Hindi & Roman.
+    fontawesome_icon_name: language
 
-  - title: Automatic Icon and Metadata
-    description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name: sync
+  - title: Works offline
+    description: Qaafiyah, Wazn for word, Words for wazn and regular expression search, Bayaaz & Design features, all are offline!
+    fontawesome_icon_name: cloud-slash
 
-  - title: Easy to Tweak
-    description: Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: adjust
+  - title: Get feedback for your poetry
+    description: A Taqti & Islah section to calculate poetic meters of poetry (Prosody عروض), along with online islah workshop
+    fontawesome_icon_name: hands-praying
 
-  - title: Feature List
-    description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: star
+  - title: Dictionaries and Thesaurus (Tri-lingual)
+    description: Multiple dictionaries and a thesaurus to look up meanings, pronunciations and synonyms (Urdu/Hindi/Roman)
+    fontawesome_icon_name: books
 
-  - title: Smart App Banner
-    description: Display a smart app banner on iOS devices.
-    fontawesome_icon_name: arrow-alt-circle-down
+  - title: Jot down your poetry
+    description: A lightweight diary with offline "save" support
+    fontawesome_icon_name: notebook
 
-  - title: Social Links
-    description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: link
+  - title: Design
+    description: Simple and elegant solution to design your poetry. Pretty and Justified!
+    fontawesome_icon_name: paintbrush-pencil
 
-  - title: FontAwesome Support
-    description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: info-circle
-
-  - title: # New Feature Title
-    description: # New Feature Description
-    fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title: Awesome quotes and articles
+    description: An online portal for awesome literary posts, updated periodically.
+    fontawesome_icon_name: newspaper
 
 # Theme Settings
 topbar_color: "#000000"
