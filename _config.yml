@@ -43,11 +43,11 @@ features:
 
   - title: Works offline
     description: Qaafiyah, Wazn for word, Words for wazn and regular expression search, Bayaaz & Design features, all are offline!
-    fontawesome_icon_name: wifi-slash
+    fontawesome_icon_name: wifi
 
   - title: Get feedback for your poetry
     description: A Taqti & Islah section to calculate poetic meters of poetry (Prosody عروض), along with online islah workshop
-    fontawesome_icon_name: hands-praying
+    fontawesome_icon_name: hammer
 
   - title: Dictionaries and Thesaurus (Tri-lingual)
     description: Multiple dictionaries and a thesaurus to look up meanings, pronunciations and synonyms (Urdu/Hindi/Roman)
@@ -78,7 +78,7 @@ device_color: black # Set to: blue, black, yellow, coral or white.
 
 body_background_color: "#ffffff"
 
-link_color: "#1d63ea"
+link_color: "#f30e16"
 
 app_title_color: "#ffffff"
 app_price_color: "#ffffff"
@@ -87,7 +87,7 @@ app_description_color: "#ffffff"
 feature_title_color: "#000000"
 feature_text_color: "#666666"
 
-feature_icons_foreground_color: "#1d63ea"
+feature_icons_foreground_color: "#f30e16"
 feature_icons_background_color: "#e6e6e6"
 
 social_icons_foreground_color: "#666666"
