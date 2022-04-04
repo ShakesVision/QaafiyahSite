@@ -5,61 +5,51 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+
+Here you can see all the changes the app has gone through in all these years.
 
 <br>
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+### **Version 2.2.0**
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
 Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+
+- Regular expression search
+- Search for Taqti of a single word
+- Search for all words following same feet (wazn)
+- Changes according to SDK [requirements](https://developer.android.com/google/play/requirements/target-sdk)
+- Pull to refresh functionality to reset the page
+- Auto-swtich to feet chip
+
+#### Bug Fixes
+
+- Push notification API fix
+- UX improvements for meaning-fetch (used to result in undesired clicks)
 
 <br>
 
-________
+# **Version 2.0.0**
+
+This was the first update to our app. The main work has been to fix the hanging problem and rewrite rendering logic to optimize the performance.
+
+The version also introduced many new features and loads of bug fixes.
+<br>
+
+---
+
 <br>
 
 ### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
 
-<br>
+# **Version 1.1 - Windows**
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+Back in 2016, a windows software with very basic functions has been released. It only had Urdu support, and a simple interface asking for `rhyme-end` and `number of characters` in the output.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+You can have a look at the windows version [here.](https://www.shakeeb.in/2017/01/qaafiyah-expert-by-shakeeb-ahmad.html) A detailed history with discussions has been stored on Urdu Mehfil forum [here.](https://www.urduweb.org/mehfil/threads/%D9%82%D8%A7%D9%81%DB%8C%DB%81-%D8%A7%DB%8C%DA%A9%D8%B3%D9%BE%D8%B1%D9%B9-%D8%B4%D8%B9%D8%B1%D8%A7%D8%A1-%D8%AD%D8%B6%D8%B1%D8%A7%D8%AA-%DA%A9%DB%92-%D9%84%DB%8C%DB%92-%D8%AE%D9%88%D8%A8%D8%B5%D9%88%D8%B1%D8%AA-%D8%AA%D8%AD%D9%81%DB%81.88892/)
 
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
+I was a college student back then. This version didn't get any updates.
 <br>
