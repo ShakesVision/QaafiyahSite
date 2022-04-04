@@ -14,7 +14,7 @@ Here you can see all the changes the app has gone through in all these years.
 
 ### **Version 2.2.0**
 
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+With a couple of big changes, this is another patch for the version 2. More features are on the way, so stay tuned for the next patch, or maybe another version if the big changes I've planned gets integrated soon enough.
 
 #### What's New
 
