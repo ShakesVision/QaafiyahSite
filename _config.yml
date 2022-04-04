@@ -2,7 +2,7 @@
 page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 1234793120 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: in # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link: https://q.shakeeb.in
@@ -11,7 +11,7 @@ presskit_download_link:
   https://drive.google.com/file/d/1axjHoY5MWn8B5KxSowRmTbeQzZI5OZUu/view?usp=sharing # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
   # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon: assets/pwa_btn.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Qaafiyah Expert
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: Get the right tools for writing Urdu poetry at your fingertips.
