@@ -1,8 +1,8 @@
 # Qaafiyah Expert Official
 
-**A consize page to keep track of everthing related to Qaafiyah Expert.**
+**A concise website to keep track of everthing related to Qaafiyah Expert.**
 
-Designed for the poets, by a poet.
+_Designed for the poets, by a poet._
 
 ## Feedback
 
