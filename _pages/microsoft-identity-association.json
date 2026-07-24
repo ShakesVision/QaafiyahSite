@@ -1,0 +1,11 @@
+---
+layout: null
+permalink: /.well-known/microsoft-identity-association.json
+---
+{
+  "associatedApplications": [
+    {
+      "applicationId": "d95ead78-f70b-4d52-a7ca-0a789f132672"
+    }
+  ]
+}
