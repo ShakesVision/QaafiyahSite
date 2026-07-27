@@ -1,0 +1,51 @@
+---
+layout: null
+permalink: /oauth/callback
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Signing in to Qaafiyah Expert</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      text-align: center;
+      padding: 2rem;
+      color: #333;
+    }
+    a { color: #f30e16; }
+  </style>
+</head>
+<body>
+  <p>Returning to Qaafiyah Expert…</p>
+  <p id="fallback" hidden>
+    If the app does not open automatically,
+    <a id="open-app" href="#">tap here</a>.
+  </p>
+  <script>
+    (function () {
+      var appScheme = "qaafiyah://oauth/callback";
+      var hash = window.location.hash || "";
+      var search = window.location.search || "";
+      var fragment = hash || search;
+
+      if (!fragment) {
+        document.body.innerHTML =
+          "<p>Sign-in did not complete. Close this tab and try again from the app.</p>";
+        return;
+      }
+
+      var target = appScheme + fragment;
+      var link = document.getElementById("open-app");
+      if (link) {
+        link.href = target;
+        document.getElementById("fallback").hidden = false;
+      }
+
+      window.location.replace(target);
+    })();
+  </script>
+</body>
+</html>
