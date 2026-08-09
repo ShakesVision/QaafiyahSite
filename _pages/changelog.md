@@ -20,12 +20,12 @@ Qaafiyah Expert 2.0 is here! This is a major release that brings a completely re
 
 #### What's New
 
-* **Three Prosody (Aruuz/Taqti) Engines** — Offline Taqti, Aruuz.com, and Rekhta Taqti.
-* **HyperDict** — An offline dictionary with support for custom dictionaries, Rekhta Dictionary, and Thesaurus.
-* **Redesigned Bayaz** — Unlimited Bayaz entries, custom fonts, image export, and paginated ZIP export.
-* **Cloud Backup** — Back up your data using Google Drive or OneDrive.
-* **Islah Workshop** — Share your poetry and receive constructive feedback from teachers.
-* **Android Shortcuts & Reorderable Tabs** — Quickly access features and customize the tab layout.
+- **Three Prosody (Aruuz/Taqti) Engines** — Offline Taqti, Aruuz.com, and Rekhta Taqti.
+- **HyperDict** — An offline dictionary with support for custom dictionaries, Rekhta Dictionary, and Thesaurus.
+- **Redesigned Bayaz** — Unlimited Bayaz entries, custom fonts, image export, and paginated ZIP export.
+- **Cloud Backup** — Back up your data using Google Drive or OneDrive.
+- **Islah Workshop** — Share your poetry and receive constructive feedback from teachers.
+- **Android Shortcuts & Reorderable Tabs** — Quickly access features and customize the tab layout.
 
 ---
 
@@ -52,6 +52,8 @@ With a couple of big changes, this is another patch for the version 2. More feat
 <br>
 
 # **Version 1.2.0**
+
+**Released May 3, 2022**
 
 This was the first update to our app. The main work has been to fix the hanging problem and rewrite rendering logic to optimize the performance.
 
@@ -114,11 +116,10 @@ I was a college student back then. This version didn't get any updates.
 
 UI
 
-![Qaafiyah Expert Windows UI](assets/QaafiyahExpertWindowsUI.JPG)
+![Qaafiyah Expert Windows UI](../assets/QaafiyahExpertWindowsUI.JPG)
 
 Urdu Mehfil thread (Archived)
 
-![Qaafiyah Expert Windows Urdu Mehfil OLD](assets/QaafiyahExpertWindowsUrduMehfilOLD.JPG)
-
+![Qaafiyah Expert Windows Urdu Mehfil OLD](../assets/QaafiyahExpertWindowsUrduMehfilOLD.JPG)
 
 <br>
