@@ -2,6 +2,10 @@
 layout: page
 title: Privacy Policy
 include_in_header: false
+permalink: /privacy/
+
+redirect_from:
+  - /privacypolicy/
 ---
 
 **Last updated**  
